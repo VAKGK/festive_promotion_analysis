@@ -1,38 +1,55 @@
-🌾 𝗙𝗲𝘀𝘁𝗶𝘃𝗲 𝗣𝗿𝗼𝗺𝗼𝘁𝗶𝗼𝗻𝘀 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗳𝗼𝗿 𝗔𝘁𝗹𝗶𝗤 𝗠𝗮𝗿𝘁 💥:
+# 🌾 Festive Promotions Performance Analysis
 
+### **Campaign Impact Assessment for AtliQ Mart**
 
-𝗦𝗵𝗼𝗿𝘁 𝗜𝗻𝗳𝗼 💬 𝗔𝗯𝗼𝘂𝘁 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 :
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 
-𝐀𝐭𝐥𝐢𝐐 𝐌𝐚𝐫𝐭, a retail giant with 50 supermarkets, ran major promotions during 𝐃𝐢𝐰𝐚𝐥𝐢 𝟐𝟎𝟐𝟑 𝐚𝐧𝐝 𝐒𝐚𝐧𝐤𝐫𝐚𝐧𝐭𝐢 𝟐𝟎𝟐𝟒. Sales director Bruce Haryali needs immediate insights on promotion performance, and data analyst Peter Pandey is on the job. 📊🚀
+---
 
-𝙍𝙚𝙦𝙪𝙚𝙨𝙩𝙨 𝘼𝙙𝙙𝙧𝙚𝙨𝙨𝙚𝙙:
+## 📖 Overview
 
-➜Store Performance Analysis
+**Promotions are the engine of retail growth, but are they working?**
 
-➜ Promotion Type Analysis
+**AtliQ Mart**, a retail giant with over **50 supermarkets**, conducted massive promotional campaigns during **Diwali 2023** and **Sankranti 2024**. Sales Director **Bruce Haryali** needed immediate, data-backed insights to understand which promotions succeeded and which fell flat.
 
-➜ Product and Category Analysis
+Simulating the role of Data Analyst **Peter Pandey**, this project analyzes sales data to evaluate the effectiveness of these festive schemes. The goal is to provide a clear picture of incremental revenue and sold units to guide future marketing strategies.
 
-(I have explained the problem statement in the video)
+> *"Deciphering the data behind the festive rush."*
 
-𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞🧠 𝐠𝐚𝐢𝐧𝐞𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 :
+---
 
-➜Deepened understanding of FMCG (𝐅𝐚𝐬𝐭 𝐌𝐨𝐯𝐢𝐧𝐠 𝐂𝐨𝐧𝐬𝐮𝐦𝐞𝐫 𝐆𝐨𝐨𝐝𝐬.) business operations
+## 🔍 Analysis Areas (Requests Addressed)
 
-➜Applied DAX functions and Created Caculated Columns
+The dashboard is designed to answer critical questions across three main pillars:
 
-➜Utilized Scatter charts with 𝐓𝐢𝐭𝐥𝐞𝐬, 𝐏𝐚𝐠𝐞 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧, and Tooltips & Maps Visual
+* **🏪 Store Performance Analysis:**
+    * Which stores and cities drove the highest growth?
+    * Identifying bottom-performing stores that failed to leverage the promotions.
+* **🏷️ Promotion Type Analysis:**
+    * Comparing different promo mechanics (e.g., BOGOF vs. Cashback vs. Discount).
+    * identifying which promotion type generated the highest incremental revenue.
+* **📦 Product & Category Analysis:**
+    * Which product categories saw the biggest lift in sales?
+    * Drilling down into specific products to identify "Hero" SKUs and laggards.
 
-➜Explored new visualization techniques
+---
 
-𝙄𝙣 𝙩𝙝𝙞𝙨 𝙥𝙧𝙤𝙟𝙚𝙘𝙩, 𝙄 𝙝𝙖𝙫𝙚 𝙪𝙨𝙚𝙙 𝙩𝙤𝙤𝙡𝙨⚙️ :
+## 🛠️ Tools Used
 
-➜𝐌𝐲𝐒𝐐𝐋 - to query the database
+* **🐬 MySQL:** Used to query the retail database and extract transaction-level data.
+* **📊 Power BI:** The primary tool for creating calculated columns, DAX measures, and the interactive dashboard.
+* **📝 PowerPoint:** Used to synthesize the findings into an executive presentation.
 
-➜𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 - to visualize the data
+---
 
-➜𝐏𝐨𝐰𝐞𝐫𝐏𝐨𝐢𝐧𝐭 - to present the Insights
+## 🧠 Knowledge & Skills Applied
 
-𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝙏𝙝𝙖𝙣𝙠𝙨 🙏:
-
-Hemanand Vadivel sir and Dhaval Patel sir, your mentorship has been a game-changer for me. I'm forever grateful for your time, wisdom, and encouragement. Thank you for helping me achieve my goals!
+* **🛒 FMCG Domain:** Deepened understanding of **Fast Moving Consumer Goods** operations and retail dynamics.
+* **🧮 DAX Mastery:**
+    * Created complex **Calculated Columns** to classify promotion types.
+    * Used advanced DAX functions to calculate Incremental Revenue (IR) and Incremental Sold Units (ISU).
+* **🎨 Advanced Visualization:**
+    * Implemented **Map
